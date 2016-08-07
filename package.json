@@ -1,5 +1,5 @@
 {
-  "name": "mup-c",
+  "name": "mupc",
   "version": "0.12.0",
   "description": "Production Quality Meteor Deployments",
   "dependencies": {
@@ -13,12 +13,12 @@
     "archiver": "0.14.x"
   },
   "bin": {
-    "mup-c": "./bin/mup-c"
+    "mupc": "./bin/mupc"
   },
   "author": "aadams99@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arunoda/meteor-up-c.git"
+    "url": "git://github.com/aadamsx/meteor-up-classic.git"
   },
   "license": "MIT"
 }
